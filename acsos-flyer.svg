@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,7 +42,7 @@
      showgrid="false"
      inkscape:zoom="1.4142136"
      inkscape:cx="364.60371"
-     inkscape:cy="627.17089"
+     inkscape:cy="372.61246"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -8151,7 +8151,7 @@
        x="587.72211"
        y="303.27841"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT Condensed';text-align:end;text-anchor:end;fill:#ffffff;stroke-width:0.75"
-       id="tspan3591">June 25, 2021</tspan><tspan
+       id="tspan3591">July 2, 2021</tspan><tspan
        sodipodi:role="line"
        x="587.72211"
        y="316.18076"
