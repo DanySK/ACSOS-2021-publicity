@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,7 +42,7 @@
      showgrid="false"
      inkscape:zoom="1.4142136"
      inkscape:cx="364.60371"
-     inkscape:cy="372.61245"
+     inkscape:cy="627.17089"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -4950,7 +4950,7 @@
        x2="407.96771"
        y2="595.35065"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0079843,0,0,1,-4.7526021,0)" />
+       gradientTransform="matrix(1.0079843,0,0,1,-4.7526021,3.350484e-8)" />
     <rect
        x="320.07452"
        y="321.70288"
@@ -7565,20 +7565,20 @@
   <text
      xml:space="preserve"
      id="text3274"
-     style="font-size:8px;line-height:1.25;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3276);"
+     style="font-size:8px;line-height:1.1;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3276);"
      x="0"
      y="0"
-     transform="translate(-6,-3)"><tspan
+     transform="translate(-6,-1.5)"><tspan
        x="227.32031"
-       y="361.25937"><tspan
+       y="360.65938"><tspan
          dx="0 0 0 0.13541698 0 0 0 0 0 0 0.13541603 0 0 0 0 0 0.13541794 0 0 0 0 0 0 0 0 0 0 0 0 0 0.13541412 0 0 0 0 0 0 0 0.13542175 0 0 0.13542175 0 0 0 0.13542175 0 0 0 0 0 0 0 0 0 0 0 0.13540649 0 0 0 0 0 0 0 0 0 0 0 0 0 0.13542175 0 0 0.13542175 0 0 0 0 0 0 0 0 0 0.13543701 0 0 0 0 0 0 0 0 0 0 0.13540649"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">We invite novel contributions related to the fundamental understanding of autonomic computing, self-adaption </tspan></tspan><tspan
        x="227.32031"
-       y="371.58124"><tspan
+       y="369.78126"><tspan
          dx="0 0 0 0 0.8839283 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.88393402 0 0 0 0 0 0.88392639 0 0 0 0 0.88392639 0 0 0 0 0 0 0 0 0 0 0.88392639 0 0 0 0.88392639 0 0 0 0 0 0 0 0 0 0.88392639 0 0 0.88392639 0 0 0 0 0 0.88392639 0 0 0 0 0 0 0 0 0 0 0 0.88394165 0 0 0 0.88391113 0 0 0 0 0 0 0 0 0 0 0 0 0.88394165 0 0 0 0.88391113 0 0 0 0 0 0 0.88394165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">and self-organization along with principles and practices of their engineering and application. The topics of </tspan></tspan><tspan
        x="227.32031"
-       y="381.90311"><tspan
+       y="378.90315"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">interest include, but are not limited to:
 </tspan></tspan></text>
   <text
@@ -7887,80 +7887,80 @@
   <text
      xml:space="preserve"
      id="text3413"
-     style="font-size:8px;line-height:1.25;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3415);"
+     style="font-size:8px;line-height:1.1;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3415);"
      x="0"
      y="0"
      transform="translate(-6,180)"><tspan
        x="227.32031"
-       y="361.25937"><tspan
+       y="360.65938"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">We invite authors to submit the following kinds of contributions:</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text3419"
-     style="font-size:8px;line-height:1.25;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3421);"
+     style="font-size:8px;line-height:1.1;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3421);"
      x="0"
      y="0"
-     transform="translate(-6,192)"><tspan
+     transform="translate(-6,190.5)"><tspan
        x="227.32031"
-       y="362.70703"><tspan
+       y="361.95703"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">Research Papers</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start"> (up to 10 pages) presenting novel ideas in the research context described </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">in this call, </tspan></tspan><tspan
        x="227.32031"
-       y="373.75937"><tspan
+       y="371.65938"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">motivated by problems from current practice or applied research.</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text3447"
-     style="font-size:8px;line-height:1.25;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3449);"
+     style="font-size:8px;line-height:1.1;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3449);"
      x="0"
      y="0"
-     transform="translate(-6,217.5)"><tspan
+     transform="translate(-6,213)"><tspan
        x="227.32031"
-       y="362.70703"><tspan
+       y="361.95703"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">Experience Reports</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start"> (up to 10 pages) covering innovative implementations, novel applications, interesting </tspan></tspan><tspan
        x="227.32031"
-       y="373.75937"><tspan
+       y="371.65938"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">performance results and experience in applying recent research advance to practical situations on any topics of </tspan></tspan><tspan
        x="227.32031"
-       y="384.08124"><tspan
+       y="380.78126"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">interest.</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text3455"
-     style="font-size:8px;line-height:1.25;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3457);"
+     style="font-size:8px;line-height:1.1;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3457);"
      x="0"
      y="0"
-     transform="translate(-6,252)"><tspan
+     transform="translate(-6,244.5)"><tspan
        x="227.32031"
-       y="362.70703"><tspan
+       y="361.95703"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">Vision Papers</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start"> (up to 6 pages) introducing ground-shaking, provocative, and even controversial ideas; discuss </tspan></tspan><tspan
        x="227.32031"
-       y="373.75937"><tspan
+       y="371.65938"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">long term perspectives and challenges; focus on overlooked or underrepresented areas, and foster debate.</tspan></tspan></text>
   <text
      xml:space="preserve"
      id="text3474"
-     style="font-size:8px;line-height:1.25;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3476);"
+     style="font-size:8px;line-height:1.1;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3476);"
      x="0"
      y="0"
-     transform="translate(-6,295.5)"><tspan
+     transform="translate(-6,289.5)"><tspan
        x="227.32031"
-       y="361.25937"><tspan
+       y="360.65938"><tspan
          dx="0 0 0 0 2.5541296 0 0 0 0 0 0 0 0 0 0 0 2.5541267 0 0 0 0 2.5541306 0 0 2.5541229 0 0 0 0 0 0 0 0 0 0 2.5541306 0 0 0 0 0 0 0 0 0 0 0 0 0 2.5541382 0 0 0 2.5541229 0 0 0 0 0 0 0 0 0 2.5541229 0 0 0 0 0 2.5541382 0 0 2.5541382 0 0 0 2.5541382 0 0 0 0 0 0 0 2.5541382 0 0 2.5541077 0 0 0 0 0 2.5541382"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">All submissions will be rigorously peer-reviewed and evaluated based on the quality of their technical </tspan></tspan><tspan
        x="227.32031"
-       y="371.58124"><tspan
+       y="369.78126"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.064903259 0 0 0 0 0 0 0 0 0 0 0 0 0.064903259 0 0 0 0 0 0 0 0 0 0 0.064903259 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06489563 0 0 0 0 0 0 0 0 0 0 0 0 0 0.064910889 0 0 0 0 0 0 0 0 0 0 0 0 0 0.064910889 0 0 0.064880371 0 0 0 0.064910889 0 0 0 0 0 0.064910889 0 0 0.064910889 0 0 0 0.064880371 0 0 0 0 0.064910889 0 0 0 0.064910889"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">contribution, originality, soundness, significance, presentation, understanding of the state of the art, and overall </tspan></tspan><tspan
        x="227.32031"
-       y="381.90311"><tspan
+       y="378.90315"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">quality.
 </tspan></tspan><tspan
        x="227.32031"
-       y="393.67264"><tspan
+       y="389.32269"><tspan
          dx="0 0 0 0.31215572 0 0 0 0 0 0 0 0 0.31215286 0 0 0 0.31215668 0 0 0 0 0 0 0 0 0 0.31215668 0 0 0.31215668 0 0 0 0 0 0 0 0 0.31214905 0 0 0 0.31216431 0 0 0 0 0.31214905 0 0 0 0 0 0.31216431 0 0 0 0 0.31214905"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">We continue the tradition of awarding the best paper with the </tspan><tspan
          dx="0.31216431 0 0 0 0 0 0 0 0.31214905 0 0 0 0 0 0 0.31213379 0 0 0 0 0.31214905 0 0 0 0 0 0.31216431"
@@ -7968,13 +7968,13 @@
          dx="0 0 0.31216431 0 0 0 0 0 0 0 0 0.31213379"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">; further, we </tspan></tspan><tspan
        x="227.32031"
-       y="406.17264"><tspan
+       y="400.32269"><tspan
          dx="0 0 0 0 0 0 0 0.21599197 0 0 0.21599388 0 0 0 0 0 0 0 0.21599579 0 0 0 0 0 0 0 0 0.21598816 0 0 0 0 0 0 0.21599579 0 0 0.21599579 0 0 0 0.21598816 0 0 0 0 0 0 0 0 0 0 0.21598816 0 0 0.21600342 0 0 0 0 0 0 0 0 0 0 0 0.21598816 0 0 0.21598816 0 0 0 0 0 0 0 0.21600342 0 0 0.2159729 0 0 0 0 0 0 0 0 0.21600342 0 0 0 0 0 0 0 0.21600342 0 0 0.2159729"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">intend to provide selected papers of the conference an opportunity to publish an extended version in a </tspan><tspan
          dx="0.21600342"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">special </tspan></tspan><tspan
        x="227.32031"
-       y="418.67264"><tspan
+       y="411.32269"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">issue</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start"> of ACM Transactions on Autonomous and Adaptive Systems (TAAS).
 </tspan></tspan></text>
@@ -7982,37 +7982,37 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT';fill:#b82159;fill-opacity:1;stroke-width:0.75"
      x="220.82591"
-     y="645.00269"
+     y="637.50269"
      id="text3490"><tspan
        sodipodi:role="line"
        id="tspan3488"
        x="220.82591"
-       y="645.00269"
+       y="637.50269"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT';fill:#b82159;fill-opacity:1;stroke-width:0.75">Review criteria, special issues, artifacts evaluation, and awards</tspan></text>
   <text
      xml:space="preserve"
      id="text3532"
-     style="font-size:8px;line-height:1.25;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3534);"
+     style="font-size:8px;line-height:1.1;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3534);"
      x="0"
      y="0"
-     transform="translate(-6,361.5)"><tspan
+     transform="translate(-6,352.5)"><tspan
        x="227.32031"
-       y="361.25937"><tspan
+       y="360.65938"><tspan
          dx="0 0 0 0 2.2053576 0 0 0 2.2053585 0 0 0 0 0 2.2053566 0 0 0 0 0 2.2053566 0 0 0 0 0 2.2053604 0 0 0 0 0 0 0 0 0 0 2.205368 0 0 0 0 0 0 0 0 0 0 2.2053528 0 0 0 0 0 0 0 0 0 0 2.2053528 0 0 0 0 0 0 0 0 2.205368 0 0 0 0 0 0 0 2.2053528 0 0 2.2053833 0 0 0 0 0 0 0 0 2.2053528 0 0 0 0 0 0 2.2053528 0 0 0 0 2.2053528"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">For the first time, ACSOS introduces anartifact evaluation program. Authors of accepted papers with a </tspan></tspan><tspan
        x="227.32031"
-       y="373.0289"><tspan
+       y="371.07892"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.54077148 0 0 0 0 0 0 0 0 0 0.54077148 0 0 0 0 0.54077148 0 0 0 0 0.54077148 0 0 0 0.54077148 0 0 0 0 0 0 0.54077148 0 0 0.54077148 0 0 0 0 0 0 0.54077148 0 0 0 0 0 0.54077148 0 0 0 0 0.54077148 0 0 0 0 0 0 0.54077148 0 0 0 0 0 0.54077148 0 0 0 0 0.54077148 0 0 0.54077148"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">computational component will have the option to submit their code and/or their data to an </tspan><tspan
          dx="0.54077148 0 0 0 0 0 0 0 0 0.54077148"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">optional artifact </tspan></tspan><tspan
        x="227.32031"
-       y="385.5289"><tspan
+       y="382.07892"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">evaluation</tspan><tspan
          dx="0 0.19506836 0 0 0 0 0 0 0 0 0.19506836 0 0 0 0 0 0 0 0 0 0 0 0 0 0.19506836 0 0 0.19506836 0 0 0 0.19506836 0 0 0 0 0 0 0 0.19506836 0 0 0.19506836 0 0 0 0 0 0 0 0 0.19506836 0 0 0 0.19506836 0 0 0 0 0.19506836 0 0 0 0.19506836 0 0 0 0 0 0 0.19506836 0 0 0 0.19506836 0 0 0 0 0 0.19506836 0 0 0 0 0 0 0 0 0 0 0.19506836 0 0 0.19506836"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start"> process. Participation in the program is optional and does not impact the paper acceptance in any </tspan></tspan><tspan
        x="227.32031"
-       y="398.0289"><tspan
+       y="393.07892"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">way. The best artifacts will be awarded the </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">IEEE ACSOS Best Software Artifact Award</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">.
