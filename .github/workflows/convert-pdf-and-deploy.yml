@@ -1,0 +1,34 @@
+name: Convert svg to pdf and deploy on GitHub Releases
+on:
+  push:
+
+jobs:
+  Build-LaTeX:
+    runs-on: ubuntu-20.04
+    steps:
+      # Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Fetch tags
+        shell: bash
+        run: git fetch --tags -f
+      - name: Install Inkscape
+        run: sudo apt-get install inkscape
+      - name: Install fonts
+        runs: sudo cp fonts/* /usr/local/share/fonts
+      - name: Rebuild Font cache
+        runs: fc-cache -f -v
+      - name: Convert to pdf
+        runs: inkscape --export-filename=acsos-flyer.pdf acsos-flyer.svg
+      - name: Autotag
+        uses: DanySK/semver-autotag-action@master
+      - name: Deploy
+        if: ${{ startsWith(github.ref, 'refs/tags/') || github.ref == 'refs/heads/master' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG=$(git describe --tags --exact-match HEAD)
+          hub release create -m "$(git tag -l --format='%(contents)' "$TAG")" "$TAG" || true
+          gh release upload "$TAG" "acsos-flyer.pdf" "acsos-flyer.svg" --clobber
