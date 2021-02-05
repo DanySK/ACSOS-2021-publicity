@@ -36,14 +36,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="2560"
-     inkscape:window-height="1381"
+     inkscape:window-width="3840"
+     inkscape:window-height="2083"
      id="namedview22708"
      showgrid="false"
      inkscape:zoom="1.4142136"
      inkscape:cx="364.60371"
      inkscape:cy="372.61246"
-     inkscape:window-x="1920"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg22706"
@@ -7143,15 +7143,15 @@
      y="474.29706" />
   <text
      xml:space="preserve"
-     style="font-size:12px;line-height:1.25;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;fill:#b82159;fill-opacity:1;stroke-width:0.75"
-     x="12.330911"
-     y="491.3309"
+     style="font-size:14px;line-height:1.25;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;fill:#b82159;fill-opacity:1;stroke-width:0.75"
+     x="9.3309107"
+     y="489.8309"
      id="text14017-2"><tspan
        sodipodi:role="line"
        id="tspan14015-2"
-       x="12.330911"
-       y="491.3309"
-       style="font-size:12px;fill:#b82159;fill-opacity:1;stroke-width:0.75">Submission Instructions</tspan></text>
+       x="9.3309107"
+       y="489.8309"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT';fill:#b82159;fill-opacity:1;stroke-width:0.75">Submission Instructions</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:8px;line-height:1.25;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;fill:#000000;fill-opacity:1;stroke-width:0.75"
@@ -7539,28 +7539,28 @@
      style="font-size:9px;line-height:1.25;font-family:BetecknaLowerCase;-inkscape-font-specification:BetecknaLowerCase;white-space:pre;shape-inside:url(#rect3193-9);"
      transform="translate(-97.606076,-82.398308)"><tspan
        x="320.07422"
-       y="330.02812"><tspan
+       y="329.66602"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT'">The goal of the IEEE International Conference on Autonomic </tspan></tspan><tspan
        x="320.07422"
-       y="341.64025"><tspan
+       y="340.91602"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT'">Computing and Self-Organizing Systems (ACSOS) is to provide </tspan></tspan><tspan
        x="320.07422"
-       y="353.25237"><tspan
+       y="352.16602"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT'">a forum for sharing the latest research results, ideas and </tspan></tspan><tspan
        x="320.07422"
-       y="364.86449"><tspan
+       y="363.41602"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT'">experiences in autonomic computing, self-adaptation and self-</tspan></tspan><tspan
        x="320.07422"
-       y="376.47661"><tspan
+       y="374.66602"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT'">organization. ACSOS was founded in 2020 as a merger of the </tspan></tspan><tspan
        x="320.07422"
-       y="388.08873"><tspan
+       y="385.91602"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT'">IEEE International Conference on Autonomic Computing (ICAC) </tspan></tspan><tspan
        x="320.07422"
-       y="399.70085"><tspan
+       y="397.16602"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT'">and the IEEE International Conference on Self-Adaptive and </tspan></tspan><tspan
        x="320.07422"
-       y="411.31298"><tspan
+       y="408.41602"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT'">Self-Organizing Systems (SASO).</tspan></tspan></text>
   <text
      xml:space="preserve"
@@ -7570,15 +7570,15 @@
      y="0"
      transform="translate(-6,-1.5)"><tspan
        x="227.32031"
-       y="360.65938"><tspan
+       y="360.3375"><tspan
          dx="0 0 0 0.13541698 0 0 0 0 0 0 0.13541603 0 0 0 0 0 0.13541794 0 0 0 0 0 0 0 0 0 0 0 0 0 0.13541412 0 0 0 0 0 0 0 0.13542175 0 0 0.13542175 0 0 0 0.13542175 0 0 0 0 0 0 0 0 0 0 0 0.13540649 0 0 0 0 0 0 0 0 0 0 0 0 0 0.13542175 0 0 0.13542175 0 0 0 0 0 0 0 0 0 0.13543701 0 0 0 0 0 0 0 0 0 0 0.13540649"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">We invite novel contributions related to the fundamental understanding of autonomic computing, self-adaption </tspan></tspan><tspan
        x="227.32031"
-       y="369.78126"><tspan
+       y="369.13749"><tspan
          dx="0 0 0 0 0.8839283 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.88393402 0 0 0 0 0 0.88392639 0 0 0 0 0.88392639 0 0 0 0 0 0 0 0 0 0 0.88392639 0 0 0 0.88392639 0 0 0 0 0 0 0 0 0 0.88392639 0 0 0.88392639 0 0 0 0 0 0.88392639 0 0 0 0 0 0 0 0 0 0 0 0.88394165 0 0 0 0.88391113 0 0 0 0 0 0 0 0 0 0 0 0 0.88394165 0 0 0 0.88391113 0 0 0 0 0 0 0.88394165"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">and self-organization along with principles and practices of their engineering and application. The topics of </tspan></tspan><tspan
        x="227.32031"
-       y="378.90315"><tspan
+       y="377.93748"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">interest include, but are not limited to:
 </tspan></tspan></text>
   <text
@@ -7600,55 +7600,55 @@
      y="0"
      transform="translate(3.0335922,29.204156)"><tspan
        x="227.32031"
-       y="361.25937"><tspan
+       y="360.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Resource Management in Data Centers and Cloud Computing
 </tspan></tspan><tspan
        x="227.32031"
-       y="371.58124"><tspan
+       y="370.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Cyber-Physical Systems (CPS) and Internet of Things (IoT)
 </tspan></tspan><tspan
        x="227.32031"
-       y="381.90311"><tspan
+       y="380.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Theory and Practice of Self-Organization, Self-Adaptation, and Organic Computing
 </tspan></tspan><tspan
        x="227.32031"
-       y="392.22498"><tspan
+       y="390.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Software and Systems Engineering for Autonomic and Self-Organizing Systems
 </tspan></tspan><tspan
        x="227.32031"
-       y="402.54685"><tspan
+       y="400.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Systems theory for Autonomic and Self-Organizing Systems
 </tspan></tspan><tspan
        x="227.32031"
-       y="412.86872"><tspan
+       y="410.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Data-Driven Approaches to Autonomic and Self-Organizing Systems Analysis and Management
 </tspan></tspan><tspan
        x="227.32031"
-       y="423.19059"><tspan
+       y="420.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Emerging Computing Paradigms
 </tspan></tspan><tspan
        x="227.32031"
-       y="433.51246"><tspan
+       y="430.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Socio-technical Autonomic and Self-Organizing Systems
 </tspan></tspan><tspan
        x="227.32031"
-       y="443.83433"><tspan
+       y="440.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Languages and Formal Methods for Autonomic and Self-Organizing Systems
 </tspan></tspan><tspan
        x="227.32031"
-       y="454.1562"><tspan
+       y="450.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Self-Aware, Reflective, and Cognitive Computing
 </tspan></tspan><tspan
        x="227.32031"
-       y="464.47806"><tspan
+       y="460.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Application Areas for Autonomic and Self-Organizing Systems such as Autonomous Vehicles, Smart Cities, Swarms, etc.
 </tspan></tspan><tspan
        x="227.32031"
-       y="474.79993"><tspan
+       y="470.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Assurances, security, resilience, and reliability of Autonomic and Self-Organizing Systems
 </tspan></tspan><tspan
        x="227.32031"
-       y="485.1218"><tspan
+       y="480.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:'Futura MdCn BT';-inkscape-font-specification:'Futura MdCn BT';text-align:start;text-anchor:start">Cross-disciplinary research on e.g., complex systems, control theory, artificial intelligence, chemistry, psychology, sociology, and biology</tspan></tspan></text>
   <path
      sodipodi:type="star"
@@ -7892,7 +7892,7 @@
      y="0"
      transform="translate(-6,180)"><tspan
        x="227.32031"
-       y="360.65938"><tspan
+       y="360.3375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">We invite authors to submit the following kinds of contributions:</tspan></tspan></text>
   <text
      xml:space="preserve"
@@ -7907,7 +7907,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start"> (up to 10 pages) presenting novel ideas in the research context described </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">in this call, </tspan></tspan><tspan
        x="227.32031"
-       y="371.65938"><tspan
+       y="371.3375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">motivated by problems from current practice or applied research.</tspan></tspan></text>
   <text
      xml:space="preserve"
@@ -7921,10 +7921,10 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">Experience Reports</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start"> (up to 10 pages) covering innovative implementations, novel applications, interesting </tspan></tspan><tspan
        x="227.32031"
-       y="371.65938"><tspan
+       y="371.3375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">performance results and experience in applying recent research advance to practical situations on any topics of </tspan></tspan><tspan
        x="227.32031"
-       y="380.78126"><tspan
+       y="380.13749"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">interest.</tspan></tspan></text>
   <text
      xml:space="preserve"
@@ -7938,7 +7938,7 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">Vision Papers</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start"> (up to 6 pages) introducing ground-shaking, provocative, and even controversial ideas; discuss </tspan></tspan><tspan
        x="227.32031"
-       y="371.65938"><tspan
+       y="371.3375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">long term perspectives and challenges; focus on overlooked or underrepresented areas, and foster debate.</tspan></tspan></text>
   <text
      xml:space="preserve"
@@ -7948,19 +7948,19 @@
      y="0"
      transform="translate(-6,289.5)"><tspan
        x="227.32031"
-       y="360.65938"><tspan
+       y="360.3375"><tspan
          dx="0 0 0 0 2.5541296 0 0 0 0 0 0 0 0 0 0 0 2.5541267 0 0 0 0 2.5541306 0 0 2.5541229 0 0 0 0 0 0 0 0 0 0 2.5541306 0 0 0 0 0 0 0 0 0 0 0 0 0 2.5541382 0 0 0 2.5541229 0 0 0 0 0 0 0 0 0 2.5541229 0 0 0 0 0 2.5541382 0 0 2.5541382 0 0 0 2.5541382 0 0 0 0 0 0 0 2.5541382 0 0 2.5541077 0 0 0 0 0 2.5541382"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">All submissions will be rigorously peer-reviewed and evaluated based on the quality of their technical </tspan></tspan><tspan
        x="227.32031"
-       y="369.78126"><tspan
+       y="369.13749"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.064903259 0 0 0 0 0 0 0 0 0 0 0 0 0.064903259 0 0 0 0 0 0 0 0 0 0 0.064903259 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06489563 0 0 0 0 0 0 0 0 0 0 0 0 0 0.064910889 0 0 0 0 0 0 0 0 0 0 0 0 0 0.064910889 0 0 0.064880371 0 0 0 0.064910889 0 0 0 0 0 0.064910889 0 0 0.064910889 0 0 0 0.064880371 0 0 0 0 0.064910889 0 0 0 0.064910889"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">contribution, originality, soundness, significance, presentation, understanding of the state of the art, and overall </tspan></tspan><tspan
        x="227.32031"
-       y="378.90315"><tspan
+       y="377.93748"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">quality.
 </tspan></tspan><tspan
        x="227.32031"
-       y="389.32269"><tspan
+       y="388.35699"><tspan
          dx="0 0 0 0.31215572 0 0 0 0 0 0 0 0 0.31215286 0 0 0 0.31215668 0 0 0 0 0 0 0 0 0 0.31215668 0 0 0.31215668 0 0 0 0 0 0 0 0 0.31214905 0 0 0 0.31216431 0 0 0 0 0.31214905 0 0 0 0 0 0.31216431 0 0 0 0 0.31214905"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">We continue the tradition of awarding the best paper with the </tspan><tspan
          dx="0.31216431 0 0 0 0 0 0 0 0.31214905 0 0 0 0 0 0 0.31213379 0 0 0 0 0.31214905 0 0 0 0 0 0.31216431"
@@ -7968,13 +7968,13 @@
          dx="0 0 0.31216431 0 0 0 0 0 0 0 0 0.31213379"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">; further, we </tspan></tspan><tspan
        x="227.32031"
-       y="400.32269"><tspan
+       y="399.35699"><tspan
          dx="0 0 0 0 0 0 0 0.21599197 0 0 0.21599388 0 0 0 0 0 0 0 0.21599579 0 0 0 0 0 0 0 0 0.21598816 0 0 0 0 0 0 0.21599579 0 0 0.21599579 0 0 0 0.21598816 0 0 0 0 0 0 0 0 0 0 0.21598816 0 0 0.21600342 0 0 0 0 0 0 0 0 0 0 0 0.21598816 0 0 0.21598816 0 0 0 0 0 0 0 0.21600342 0 0 0.2159729 0 0 0 0 0 0 0 0 0.21600342 0 0 0 0 0 0 0 0.21600342 0 0 0.2159729"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">intend to provide selected papers of the conference an opportunity to publish an extended version in a </tspan><tspan
          dx="0.21600342"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">special </tspan></tspan><tspan
        x="227.32031"
-       y="411.32269"><tspan
+       y="410.35699"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">issue</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start"> of ACM Transactions on Autonomous and Adaptive Systems (TAAS).
 </tspan></tspan></text>
@@ -7997,22 +7997,22 @@
      y="0"
      transform="translate(-6,352.5)"><tspan
        x="227.32031"
-       y="360.65938"><tspan
+       y="360.3375"><tspan
          dx="0 0 0 0 2.2053576 0 0 0 2.2053585 0 0 0 0 0 2.2053566 0 0 0 0 0 2.2053566 0 0 0 0 0 2.2053604 0 0 0 0 0 0 0 0 0 0 2.205368 0 0 0 0 0 0 0 0 0 0 2.2053528 0 0 0 0 0 0 0 0 0 0 2.2053528 0 0 0 0 0 0 0 0 2.205368 0 0 0 0 0 0 0 2.2053528 0 0 2.2053833 0 0 0 0 0 0 0 0 2.2053528 0 0 0 0 0 0 2.2053528 0 0 0 0 2.2053528"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">For the first time, ACSOS introduces anartifact evaluation program. Authors of accepted papers with a </tspan></tspan><tspan
        x="227.32031"
-       y="371.07892"><tspan
+       y="370.75702"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.54077148 0 0 0 0 0 0 0 0 0 0.54077148 0 0 0 0 0.54077148 0 0 0 0 0.54077148 0 0 0 0.54077148 0 0 0 0 0 0 0.54077148 0 0 0.54077148 0 0 0 0 0 0 0.54077148 0 0 0 0 0 0.54077148 0 0 0 0 0.54077148 0 0 0 0 0 0 0.54077148 0 0 0 0 0 0.54077148 0 0 0 0 0.54077148 0 0 0.54077148"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">computational component will have the option to submit their code and/or their data to an </tspan><tspan
          dx="0.54077148 0 0 0 0 0 0 0 0 0.54077148"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">optional artifact </tspan></tspan><tspan
        x="227.32031"
-       y="382.07892"><tspan
+       y="381.75702"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">evaluation</tspan><tspan
          dx="0 0.19506836 0 0 0 0 0 0 0 0 0.19506836 0 0 0 0 0 0 0 0 0 0 0 0 0 0.19506836 0 0 0.19506836 0 0 0 0.19506836 0 0 0 0 0 0 0 0.19506836 0 0 0.19506836 0 0 0 0 0 0 0 0 0.19506836 0 0 0 0.19506836 0 0 0 0 0.19506836 0 0 0 0.19506836 0 0 0 0 0 0 0.19506836 0 0 0 0.19506836 0 0 0 0 0 0.19506836 0 0 0 0 0 0 0 0 0 0 0.19506836 0 0 0.19506836"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start"> process. Participation in the program is optional and does not impact the paper acceptance in any </tspan></tspan><tspan
        x="227.32031"
-       y="393.07892"><tspan
+       y="392.75702"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">way. The best artifacts will be awarded the </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:'Futura BdCn BT';-inkscape-font-specification:'Futura BdCn BT'">IEEE ACSOS Best Software Artifact Award</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">.
@@ -8025,106 +8025,106 @@
      y="0"
      transform="translate(-218.36816,140.70725)"><tspan
        x="227.32031"
-       y="361.25937"><tspan
+       y="360.9375"><tspan
          dx="0 0 0 0 0.71386719 0 0 0 0 0 0 0 0 0 0 0 0.71386719 0 0 0 0.71386719 0 0 0 0 0 0 0 0 0.71386719 0 0 0.71386719 0 0 0.71386719 0 0 0 0 0 0 0 0 0 0.71386719 0 0 0 0 0 0 0 0 0 0.71386719"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">All submissions are required to be formatted according to </tspan></tspan><tspan
        x="227.32031"
-       y="371.58124"><tspan
+       y="370.9375"><tspan
          dx="0 0 0 0 2.6855469 0 0 0 0 0 0 0 0 2.6855469 0 0 0 0 2.6855469 0 0 0 0 0 0 0 0 2.6855469 0 0 0 0 0 0 0 2.6855469 0 0 0 0 0 2.6855469"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">the standard IEEE Computer Society Press proceedings </tspan></tspan><tspan
        x="227.32031"
-       y="381.90311"><tspan
+       y="380.9375"><tspan
          dx="0 0 0 0 0 0 2.6082592 0 0 0 0 0 0 2.6082611 0 0 0 0 0 0 2.6082611 0 0 0 2.6082611 0 0 0 0 0 0 0 0 0 2.6082611 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2.6082611 0 0 2.6082611"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">style guide. Papers are submitted electronically in PDF </tspan></tspan><tspan
        x="227.32031"
-       y="392.22498"><tspan
+       y="390.9375"><tspan
          dx="0 0 0 0 0 0 0 1.9694004 0 0 0 0 0 0 0 1.9693985 0 0 0 1.9693985 0 0 0 0 0 1.9693985 0 0 0 0 1.9694061 0 0 0 0 0 0 0 0 0 1.9694061"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">format through the ACSOS 2021 EasyChair conference </tspan></tspan><tspan
        x="227.32031"
-       y="402.54685"><tspan
+       y="400.9375"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0 4.109375 0 0 0 0 0 0 0 4.109375 0 0 0 4.109375 0 0 0 0 0 0 4.109375 0 0 0 4.109375 0 0 0 0 0 0 0 0 4.109375 0 0 4.109375"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">management system. All papers are required to be </tspan></tspan><tspan
        x="227.32031"
-       y="412.86872"><tspan
+       y="410.9375"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 4.0826836 0 0 0 0 0 0 0 0 0 4.0826874 0 0 4.0826797 0 0 0 4.0826797 0 0 0 0 0 0 0 0 4.0826721 0 0 0 0 4.0826874"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">formatted according to the standard IEEE Computer </tspan></tspan><tspan
        x="227.32031"
-       y="423.19059"><tspan
+       y="420.9375"><tspan
          dx="0 0 0 0 0 0 0 0 3.1464844 0 0 0 0 0 3.1464844 0 0 0 0 0 0 0 0 0 0 3.1464844 0 0 0 0 0 3.1464844 0 0 0 0 0 3.1464844 0 0 0 0 0 0 0 3.1464844"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">Society Press proceeding style guide (double column).
 </tspan></tspan><tspan
        x="227.32031"
-       y="433.51246"><tspan
+       y="430.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">
 </tspan></tspan><tspan
        x="227.32031"
-       y="443.83433"><tspan
+       y="440.9375"><tspan
          dx="0 0 0 0 0 0 0 0 0 0.20556641 0 0 0 0 0 0 0.20556641 0 0 0 0.20556641 0 0 0 0 0 0 0 0 0 0 0.20556641 0 0 0 0 0 0 0 0.20556641 0 0 0 0 0.20556641 0 0 0.20556641 0 0 0 0 0 0 0 0 0.20556641"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">Research papers and experience reports will be included in </tspan></tspan><tspan
        x="227.32031"
-       y="454.1562"><tspan
+       y="450.9375"><tspan
          dx="0 0 0 0 0.72314453 0 0 0 0 0 0 0 0 0 0 0.72314453 0 0 0 0 0 0 0 0 0 0 0 0.72314453 0 0 0 0 0.72314453 0 0 0 0 0.72314453 0 0 0.72314453 0 0 0 0 0 0 0 0 0 0.72314453 0 0 0.72314453"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">the conference proceedings that will be published by IEEE </tspan></tspan><tspan
        x="227.32031"
-       y="464.47806"><tspan
+       y="460.9375"><tspan
          dx="0 0 0 0 0 0 0 0 0 1.0959206 0 0 0 0 0 0 0 1.0959206 0 0 0 0 0 1.0959167 0 0 0 1.0959244 0 0 0 0 1.0959167 0 0 0 0 0 0 0 0 0 1.0959167 0 0 1.095932 0 1.0959167 0 0 0 0 1.0959167"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">Computer Society Press and made available as a part of </tspan></tspan><tspan
        x="227.32031"
-       y="474.79993"><tspan
+       y="470.9375"><tspan
          dx="0 0 0 0 1.8781252 0 0 0 0 1.8781242 0 0 0 0 0 0 0 1.8781281 0 0 0 0 0 0 0 0 1.8781204 0 0 0 0 0 0 1.8781281 0 0 0 0 0 0 1.8781281 0 0 0 0 1.8781281 0 0 1.8781128 0 0 0 0 1.8781281 0 0 1.8781281"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">the IEEE Digital Library. Vision papers will be part of a </tspan></tspan><tspan
        x="227.32031"
-       y="485.1218"><tspan
+       y="480.9375"><tspan
          dx="0 0 0 0 0 0 0 0 0 2.0343742 0 0 0 0 0 0 0 0 0 0 0 2.0343704 0 0 0 0 0 0 2.0343781 0 0 0 0 2.0343704 0 0 0 0 0 2.0343781"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">separate proceedings volume (the ACSOS Companion).
 </tspan></tspan><tspan
        x="227.32031"
-       y="495.44367"><tspan
+       y="490.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">
 </tspan></tspan><tspan
        x="227.32031"
-       y="505.76554"><tspan
+       y="500.9375"><tspan
          dx="0 0 0 1.2099609 0 0 0 1.2099609 0 0 0 1.2099609 0 0 0 0 0 0 0 0 1.2099609 0 0 0 0 1.2099609 0 0 0 0 0 0 0 0 0 1.2099609 0 0 0 1.2099609 0 0 0 0 0 0 0 0 0 0 0 1.2099609"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">As per the standard IEEE policies, all submissions should </tspan></tspan><tspan
        x="227.32031"
-       y="516.08741"><tspan
+       y="510.9375"><tspan
          dx="0 0 0 2.3261719 0 0 0 0 0 0 0 0 0 2.3261719 0 0 0 0 0 2.3261719 0 0 0 0 2.3261719 0 0 0 0 0 0 2.3261719 0 0 0 2.3261719 0 0 0 0 2.3261719 0 0 0 0 2.3261719"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">be original, i.e., they should not have been previously </tspan></tspan><tspan
        x="227.32031"
-       y="526.40928"><tspan
+       y="520.9375"><tspan
          dx="0 0 0 0 0 0 0 0 0 0 0.26953125 0 0 0.26953125 0 0 0 0.26953125 0 0 0 0 0 0 0 0 0 0 0.26953125 0 0 0 0 0 0 0 0 0 0 0 0 0.26953125 0 0 0 0 0 0.26953125 0 0 0.26953125"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">published in any conference proceedings, book, or journal </tspan></tspan><tspan
        x="227.32031"
-       y="536.73118"><tspan
+       y="530.9375"><tspan
          dx="0 0 0 0 2.7294922 0 0 0 0 0 0 2.7294922 0 0 0 2.7294922 0 0 0 0 0 0 0 0 0 2.7294922 0 0 2.7294922 0 0 0 0 0 2.7294922 0 0 0 0 0 0 2.7294922 0 0 0 2.7294922"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">and should not currently be under review for another </tspan></tspan><tspan
        x="227.32031"
-       y="547.05308"><tspan
+       y="540.9375"><tspan
          dx="0 0 0 0 0 0 0 0 0 2.4775391 0 0 0 0 0 0 0 0 0 0 0 2.4775391 0 0 2.4775391 0 0 0 0 2.4775391 0 0 0 0 0 2.4775391 0 0 0 0 0 2.4775391 0 0 2.4775391 0 0 0 2.4775391"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">archival conference. We also fully abide by the IEEE’s </tspan></tspan><tspan
        x="227.32031"
-       y="557.37498"><tspan
+       y="550.9375"><tspan
          dx="0 0 0 0 0 0 0 0 0 8.0332031 0 0 0 0 0 0 0 0 0 8.0332031 0 0 0 0 0 0 0 0 0 0 8.0332031 0 0 0 8.0332031"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">policies regarding plagiarism and self-plagiarism.
 </tspan></tspan><tspan
        x="227.32031"
-       y="567.69687"><tspan
+       y="560.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">
 </tspan></tspan><tspan
        x="227.32031"
-       y="578.01877"><tspan
+       y="570.9375"><tspan
          dx="0 0 0 0 0 0 0.22600365 0 0 0 0 0 0 0 0 0.22600174 0 0 0 0.22600555 0 0 0 0 0 0 0 0 0 0 0 0 0.22599792 0 0 0 0 0 0 0 0 0.22599792 0 0 0 0 0 0 0.22601318 0 0 0 0 0.22599792"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">Where relevant and appropriate, accepted papers will also </tspan></tspan><tspan
        x="227.32031"
-       y="588.34067"><tspan
+       y="580.9375"><tspan
          dx="0 0 0 3.2128906 0 0 0 0 0 0 0 0 0 0 3.2128906 0 0 3.2128906 0 0 0 0 0 0 0 0 0 0 0 3.2128906 0 0 3.2128906 0 0 0 3.2128906 0 0 0 0 3.2128906 0 0 3.2128906"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">be encouraged to participate in the Demo or Poster </tspan></tspan><tspan
        x="227.32031"
-       y="598.66257"><tspan
+       y="590.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">Sessions.
 </tspan></tspan><tspan
        x="227.32031"
-       y="608.98447"><tspan
+       y="600.9375"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura Lt BT';-inkscape-font-specification:'Futura Lt BT';text-align:justify;text-anchor:start">
 </tspan></tspan></text>
   <text
