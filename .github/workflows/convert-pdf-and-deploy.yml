@@ -14,8 +14,12 @@ jobs:
       - name: Fetch tags
         shell: bash
         run: git fetch --tags -f
+      - name: Add Inkscape repository
+        run: sudo add-apt-repository ppa:inkscape.dev/stable
+      - name: apt update
+        run: sudo apt update
       - name: Install Inkscape
-        run: sudo apt-get install inkscape
+        run: sudo apt install inkscape
       - name: Install fonts
         run: sudo cp fonts/* /usr/local/share/fonts
       - name: Rebuild Font cache
