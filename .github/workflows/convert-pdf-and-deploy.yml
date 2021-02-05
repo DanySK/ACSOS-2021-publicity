@@ -3,7 +3,7 @@ on:
   push:
 
 jobs:
-  Build-LaTeX:
+  Build-PDF:
     runs-on: ubuntu-20.04
     steps:
       # Checkout the repository
